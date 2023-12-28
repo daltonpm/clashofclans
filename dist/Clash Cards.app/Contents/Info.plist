@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Clash Cards</string>
+	<key>CFBundleExecutable</key>
+	<string>Clash Cards</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-2f419677242c3f498d89a797a320bf8b739ef693a7ff75ace56f33d88e2193bb.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>Clash Cards</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Clash Cards</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
